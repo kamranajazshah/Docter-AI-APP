@@ -1,0 +1,8 @@
+langchain
+dotenv
+lagchain_openai
+langchain_community
+streamlit
+fastapi
+pydantic
+faiss-cpu
